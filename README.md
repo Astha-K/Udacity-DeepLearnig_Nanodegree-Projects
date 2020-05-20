@@ -22,5 +22,5 @@ In this part, you’ll learn about Recurrent Neural Networks (RNNs) — it i
 In this, you'll use a deep convolutional GAN to generate completely new images of human faces. The project will be broken down into a series of tasks from loading in data to defining and training adversarial networks. At the end of the notebook, you’ll be able to visualize the results of your trained Generator to see how it performs.
 
 # PROJECT 5: Deploying A Sentiment Analysis Model
-In this module,you will learned how to deploy train & deploy model using Amazon AWS and Sagemaker. Builed a Semtiment Analysis Model on Sagemaker and deployed the same using AWS Sagemaker prebuild functionality.
+In this module, you will learn how to deploy train & deploy model using Amazon AWS and Sagemaker. Builed a Semtiment Analysis Model on Sagemaker and deployed the same using AWS Sagemaker prebuild functionality.
 Your goal will be to have a simple web page which a user can use to enter a movie review. The web page will then send the review off to your deployed model which will predict the sentiment of the entered review.
