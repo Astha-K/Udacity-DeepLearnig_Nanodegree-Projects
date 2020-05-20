@@ -1,0 +1,1 @@
+In this project, I have build an algorithm to generate our own Seinfeld TV scripts using RNNs. I have used a Seinfeld dataset of scripts from 9 seasons. The Neural Network I have build will generate a new, "fake" TV script.
