@@ -19,7 +19,8 @@ In this project, you'll preprocess the images, then train a convolutional neural
 In this part, you’ll learn about Recurrent Neural Networks (RNNs) — it is well suited to data that forms sequences like text, music, and time series data. You'll build a recurrent neural network that can generate new text character by character.Then, you'll learn about word embeddings and implement the Word2Vec model, a network that can learn about semantic relationships between words.You'll combine embeddings and an RNN to predict the sentiment of movie reviews.In this project, you'll use what you've learned here to generate new TV scripts from episodes of The Simpson's.
 
 # PROJECT 4: Generative Adversarial Networks- (Generate Faces)
-In this, you'll use a deep convolutional GAN to generate completely new images of human faces.
+In this, you'll use a deep convolutional GAN to generate completely new images of human faces. The project will be broken down into a series of tasks from loading in data to defining and training adversarial networks. At the end of the notebook, you’ll be able to visualize the results of your trained Generator to see how it performs.
 
 # PROJECT 5: Deploying A Sentiment Analysis Model
 In this module,you will learned how to deploy train & deploy model using Amazon AWS and Sagemaker. Builed a Semtiment Analysis Model on Sagemaker and deployed the same using AWS Sagemaker prebuild functionality.
+Your goal will be to have a simple web page which a user can use to enter a movie review. The web page will then send the review off to your deployed model which will predict the sentiment of the entered review.
